@@ -51,7 +51,7 @@ function createChart (svg, data) {
 
   var yAxis = g.append('g')
       .attr('class', 'axis')
-      .attr('transform', 'translate(' + margin.right + ',0)')
+      .attr('transform', 'translate(' + (margin.right+margin.left) + ',0)')
       .call(d3.axisLeft(y0))
       //.attr("transform", "rotate(90)")
 
@@ -65,7 +65,8 @@ function createChart (svg, data) {
       .attr('dx', '0.32em')
       .attr('font-weight', 'bold')
       .attr('text-anchor', 'start')
-      .attr('transform', 'translate(40' + width + ')')
+      //.attr('transform', 'translate(40' + width + ')')
+      //.attr('transform', 'translate(' + margin.right + ',0)')
       .text('Beneficiados')
 
 
@@ -147,8 +148,8 @@ function createChart (svg, data) {
       .attr('height', y1.bandwidth())
       .attr('y', function (d) { return y1(d.key) })
       //.attr('x', function (d) { return x(d.value); })
-      .attr('x', margin.right)
-      .attr('width', function (d) { return width - x(d.value); })
+      .attr('x', (margin.right+margin.left) )
+      .attr('width', function (d) { return width - (x(d.value)+margin.right); })
 
     }
 
