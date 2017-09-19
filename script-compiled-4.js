@@ -111,7 +111,7 @@ function createChart (svg, data) {
 
       //find max value of a section
       var maxValue = d3.max(data.map(function (d) { return Object.values(d.values); }).reduce(function (a, b) { return a.concat(b); }, []))
-      x.domain([maxValue,0]).nice()
+      x.domain([0,maxValue]).nice()
 
       xAxis.transition()
       .call(d3.axisBottom(x))
@@ -150,7 +150,6 @@ function createChart (svg, data) {
       //.attr('x', function (d) { return x(d.value); })
       .attr('x', (margin.right+margin.left) )
       .attr('width', function (d) { return width - (x(d.value)+margin.right); })
-
     }
 
   }
