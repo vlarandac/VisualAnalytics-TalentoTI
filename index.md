@@ -13,7 +13,7 @@ Los interesados en estudiar carreras en los niveles técnico profesional, tecnol
 
 Las inscripciones se realizan a través del sitio web [ICETEX](http://www.icetex.gov.co)
 
-# descripción de los datos 
+# Descripción de los datos 
 
 ## [Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
 
