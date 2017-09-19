@@ -14,19 +14,15 @@ Para este año 2017 no han abierto convocatoria, pero siguen entregando creditos
 ## [Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
 
 ### ¿Qué hay en este Conjunto de Datos?
-El datasset elegido esta compuesto por :
-Filas
-7.627
-Columnas
-25
+El datasset elegido esta compuesto por 7.627 Filas 25 Columnas.
 
 Se actualiza mensualmente y la información que se encuentra allí contenida hace relación a los distintos beneficiados que ha tenido el programa desde el año 2012, presentando características asociadas al beneficiario y su lugar de origen, e información relacionada con el tio de programa, nivel, entidad, lugar de ubicación, tipo de crédito asignado y estado actual junto con una observación. 
 
-En el siguiente emlace se encuentra la visyalización desarrollada para esteos datos. 
+En el siguiente emlace se encuentra la visualización desarrollada para estos datos. 
 
 # [BENEFICIARIOS](https://vlarandac.github.io/VisualAnalytics-TalentoTI/beneficiarios_def.html)
 
-## Lo que se esperaba conseguir con la visualización:
+## Lo que se espera conseguir con la visualización:
 
 Resumir la distribución de beneficiarios del programa Talentos TI por departamento y programa en cada una de las convocatorias.
 
@@ -38,5 +34,9 @@ Por medio de la visualización elegida podemos  determinar que en sus inicios el
  
 Hacia el año 2015 se puede ver una cobertura muy baja en la asignación de beneficios para todos los niveles, y para los últimos dos años en 2016 y 2017 el mayor incentivo ha sido brindado a estudiantes de carreras universitarias sobre cualquiera de los otros niveles. 
  
-Teniendo en cuenta la naturaleza del programa, que está enfocado a carreras del área de TI podemos ver que las tendencias aumentaron cuando se incluyeron programas de fortalecimiento de la industria TI en el país, los departamentos que mayor beneficio han obtenido de las distintas convocatorias son en los que se encuentran las grandes ciudades como el Distrito Capital, y el Valle del Cauca, seguido por ciudades intermedias pero con desarrollo constante tales como las de la zona cafetera, los Santanderes, Boyacá y Nariño.  De igual manera se puede ver la poca participación del beneficio en estudiantes residentes en la zona costera y en las zonas de los llanos orientales y región pacífica, lo cual podría verse reflejado en el desarrollo más lento en cuanto a tecnología y a oferta de programas de este tipo en esas zonas del país. 
+Teniendo en cuenta la naturaleza del programa, que está enfocado a carreras del área de TI podemos ver que las tendencias aumentaron cuando se incluyeron programas de fortalecimiento de la industria TI en el país, los departamentos que mayor beneficio han obtenido de las distintas convocatorias son en los que se encuentran las grandes ciudades como el Distrito Capital, y el Valle del Cauca, seguido por ciudades intermedias pero con desarrollo constante tales como las de la zona cafetera, los Santanderes, Boyacá y Nariño.  
+
+De igual manera se puede ver la poca participación del beneficio en estudiantes residentes en la zona costera y en las zonas de los llanos orientales y región pacífica, lo cual podría verse reflejado en el desarrollo más lento en cuanto a tecnología y a oferta de programas de este tipo en esas zonas del país. 
+
+Con respecto a la hipótesis planteada, no puede llegar a concluirse que el nivel de programas elegidos por los beneficiarios por departamento sean los mismos en las distintas convocatorias, ya que no se evidencia en el análisis presentado, adicionalmente la información que se tiene nos presenta claramente que no siempre se benefician programas de los mismo niveles.  Así mismo podemos ver que aunque en la definición del programa no se ha planteado que sea para programas del nivel de matesría existen beneficiarios de ese nivel en algunos periodos.
 
