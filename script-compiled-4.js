@@ -15,9 +15,9 @@ function createChart (svg, data) {
   var margin = {top: 20, right: 90, bottom: 30, left: 10}
   var width = 960 - margin.left - margin.right
   var height = 500 - margin.top - margin.bottom
-  var g = svg.append('g').attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')        
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+  var g = svg.append('g').attr('transform', 'translate(0)')        
+        .attr("width", width)
+        .attr("height", height)
 
   var y0 = d3.scaleBand()
     .rangeRound([460,460-height])
