@@ -11,9 +11,9 @@ De acuerdo con datos del Observatorio TI, de FEDESOFT y MinTIC hay una brecha de
 
 Los interesados en estudiar carreras en los niveles técnico profesional, tecnológico y universitario en áreas relacionadas con Tecnologías de la Información podrán postularse a la convocatoria vigente para el segundo semestre de 2016 que otorga créditos condonables hasta en un 100%.
 
-Las inscripciones se realizan a través del sitio web [ICETEX](www.icetex.gov.co)
+Las inscripciones se realizan a través del sitio web [ICETEX](http://www.icetex.gov.co)
 
-https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8
+[Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
 
 Beneficiarios de los Convenios Talento TI 2012 - 2016
 Ciencia, Tecnología e Innovación
