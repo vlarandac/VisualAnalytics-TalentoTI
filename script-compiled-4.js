@@ -12,22 +12,22 @@ function createChart (svg, data) {
   //var colors = ["#ccebc5", "#a8ddb5", "#7bccc4", "#4eb3d3", "#2b8cbe", "#0868ac", "#084081"]
 
   svg = d3.select(svg)
-  var margin = {top: 20, right: 20, bottom: 30, left: 40}
+  var margin = {top: 20, right: 90, bottom: 30, left: 10}
   var width = 960 - margin.left - margin.right
   var height = 500 - margin.top - margin.bottom
   var g = svg.append('g').attr('transform', 'translate(' + margin.left + ',' + margin.top + ')')        
-        .attr("width", width + margin.left + margin.right)
+        .attr("width", width + margin.left + margin.right + '100')
         .attr("height", height + margin.top + margin.bottom)
 
   var y0 = d3.scaleBand()
-    .rangeRound([0,height])
+    .rangeRound([460,460-height])
     .paddingInner(0.1)
 
   var y1 = d3.scaleBand()
-    .padding(0.05)
+    .padding(0.30)
 
   var x = d3.scaleLinear()
-    .rangeRound([0, width])
+    .rangeRound([860,860 - (width - 160)])
 
   var z = d3.scaleOrdinal(d3.schemeCategory20)
 
@@ -51,7 +51,7 @@ function createChart (svg, data) {
 
   var yAxis = g.append('g')
       .attr('class', 'axis')
-      .attr('transform', 'translate(' + height + ',0)')
+      .attr('transform', 'translate(' + margin.right + ',0)')
       .call(d3.axisLeft(y0))
       //.attr("transform", "rotate(90)")
 
@@ -76,7 +76,7 @@ function createChart (svg, data) {
 
   legend.append('text')
   .text('Nivel del programa')
-  .attr('x', width - 19)
+  .attr('x', width + 50)
   .style('font-weight', 'bold')
   .attr('dy', -10)
   .attr('dx', 20)
@@ -88,13 +88,13 @@ function createChart (svg, data) {
       .attr('transform', function (d, i) { return 'translate(0,' + i * 20 + ')' })
 
   legendEnter.append('rect')
-      .attr('x', width - 19)
+      .attr('x', width + 50)
       .attr('width', 19)
       .attr('height', 19)
       .attr('fill', z)
 
   legendEnter.append('text')
-      .attr('x', width - 24)
+      .attr('x', width + 40)
       .attr('y', 9.5)
       .attr('dy', '0.32em')
       .text(function (d) { return d; })
@@ -125,6 +125,7 @@ function createChart (svg, data) {
       .enter()
       .append('g')
       .attr('transform', function (d) { return 'translate(0,' + y0(d.name) + ')' })
+      //.attr("transform", "rotate(180)")
       .merge(barsWithData)
       .selectAll('rect')
       .data(function (d) {
@@ -145,7 +146,8 @@ function createChart (svg, data) {
       .transition()
       .attr('height', y1.bandwidth())
       .attr('y', function (d) { return y1(d.key) })
-      .attr('x', function (d) { return x(d.value); })
+      //.attr('x', function (d) { return x(d.value); })
+      .attr('x', '90')
       .attr('width', function (d) { return width - x(d.value); })
 
     }
