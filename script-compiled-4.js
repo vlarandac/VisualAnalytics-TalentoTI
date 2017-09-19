@@ -147,7 +147,7 @@ function createChart (svg, data) {
       .attr('height', y1.bandwidth())
       .attr('y', function (d) { return y1(d.key) })
       //.attr('x', function (d) { return x(d.value); })
-      .attr('x', '90')
+      .attr('x', margin.right)
       .attr('width', function (d) { return width - x(d.value); })
 
     }
