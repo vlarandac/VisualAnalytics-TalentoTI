@@ -1,6 +1,6 @@
-[TALENTO TI](http://www.talentoti.gov.co/635/w3-article-14158.html)
+# [TALENTO TI](http://www.talentoti.gov.co/635/w3-article-14158.html)
 
-¿QUIÉNES SOMOS?
+## ¿QUIÉNES SOMOS?
 
 Somos la iniciativa del Ministerio de Tecnologías de la Información y las Comunicaciones que busca fortalecer la Industria TI en Colombia.
 La iniciativa Talento TI del MinTIC es una de las apuestas del Plan Vive Digital para la gente que busca promover la formación de los colombianos en carreras TI para impulsar la competitividad, la investigación, la innovación y la proyección internacional del sector TI del país. Necesitamos formar más y mejores profesionales en áreas TI para potenciar procesos productivos en diferentes sectores de la economía, a través de soluciones e innovaciones de base tecnológica.
@@ -13,13 +13,13 @@ Los interesados en estudiar carreras en los niveles técnico profesional, tecnol
 
 Las inscripciones se realizan a través del sitio web [ICETEX](http://www.icetex.gov.co)
 
-[Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
+# [Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
 
-Beneficiarios de los Convenios Talento TI 2012 - 2016
+## Beneficiarios de los Convenios Talento TI 2012 - 2016
 Ciencia, Tecnología e Innovación
 Base de datos abierta de beneficiarios de Convenios Talento TI 2012 2016
 
-Información de la Entidad
+### Información de la Entidad
 Municipio	Bogotá D.C.
 Nombre de la Entidad	Ministerio de Tecnologías de La Información y Las Comunicaciones
 Orden	Nacional
@@ -34,11 +34,11 @@ URL Documentación
 Fecha Emisión (aaaa-mm-dd)	2017-06-23
 URL Normativa	
 
-¿Qué hay en este Conjunto de Datos?
+### ¿Qué hay en este Conjunto de Datos?
 Filas
 7.627
 Columnas
 25
 
-[BENEFICIARIOS](https://vlarandac.github.io/VisualAnalytics-TalentoTI/beneficiarios_def.html)
+# [BENEFICIARIOS](https://vlarandac.github.io/VisualAnalytics-TalentoTI/beneficiarios_def.html)
 
