@@ -19,20 +19,20 @@ Las inscripciones se realizan a través del sitio web [ICETEX](http://www.icetex
 Ciencia, Tecnología e Innovación
 Base de datos abierta de beneficiarios de Convenios Talento TI 2012 2016
 
-### Información de la Entidad
-Municipio	Bogotá D.C.
-Nombre de la Entidad	Ministerio de Tecnologías de La Información y Las Comunicaciones
-Orden	Nacional
-Sector	Ciencia, Tecnología e innovación
-Área o dependencia	Fortalencimiento a la Industria TI - FITI
-Departamento	Bogotá D.C.
-Información de Datos
-Cobertura Geográfica	Nacional
-Idioma	Español
-Frecuencia de Actualización	Mensual
-URL Documentación	
-Fecha Emisión (aaaa-mm-dd)	2017-06-23
-URL Normativa	
+| Información de la Entidad |  |
+| Municipio | Bogotá D.C. |
+|Nombre de la Entidad | Ministerio de Tecnologías de La Información y Las Comunicaciones |
+|Orden | Nacional |
+|Sector | Ciencia, Tecnología e innovación |
+|Área o dependencia | Fortalencimiento a la Industria TI - FITI |
+|Departamento | Bogotá D.C. |
+|Información de Datos|   |
+|Cobertura Geográfica | Nacional |
+|Idioma | Español |
+|Frecuencia de Actualización | Mensual |
+|URL Documentación |   |	
+|Fecha Emisión (aaaa-mm-dd) | 2017-06-23 |
+|URL | Normativa |	
 
 ### ¿Qué hay en este Conjunto de Datos?
 Filas
