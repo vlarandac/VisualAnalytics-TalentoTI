@@ -1,0 +1,1715 @@
+{
+   "2012-2": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": 3,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": 3,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 117,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": 4,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 12
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 14,
+         "UNIVERSITARIO": 28
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": 4,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 10
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }}
+   ],
+   "2012-2 EXT": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": 5,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": 3,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }}
+   ],
+   "2013-1": [
+      {
+         "name": "AMAZONAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 9,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 10,
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 3,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 17
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 3,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 18
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 2,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 79,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CHOCO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 3,
+         "TECNOLOGIA": 21,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 9,
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 21,
+         "TECNOLOGIA": 30,
+         "UNIVERSITARIO": 17
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 2,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 47,
+         "TECNOLOGIA": 58,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 21,
+         "UNIVERSITARIO": 10
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 3,
+         "TECNICO PROFESIONAL": 3,
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 4
+      }}
+   ],
+   "2013-2": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 5,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 21,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 59,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 41,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 32,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CHOCO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 81,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 16,
+         "TECNICO PROFESIONAL": 3,
+         "TECNOLOGIA": 12,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": 7,
+         "TECNOLOGIA": 77,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 11,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "META",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 27,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 446,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 8,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "PUTUMAYO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 3,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 76,
+         "TECNICO PROFESIONAL": 86,
+         "TECNOLOGIA": 54,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 8,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 2,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 12,
+         "UNIVERSITARIO": ""
+      }}
+   ],
+   "2014-1": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 47,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 22,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 6,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 13,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 14,
+         "TECNICO PROFESIONAL": 11,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 101,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 240,
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 33,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 8,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 71,
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 19,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 6,
+         "TECNICO PROFESIONAL": 9,
+         "TECNOLOGIA": 90,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 49,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "META",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 117,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 846,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "PUTUMAYO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 9,
+         "TECNICO PROFESIONAL": 17,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 121,
+         "TECNICO PROFESIONAL": 43,
+         "TECNOLOGIA": 41,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 2,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 31,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 106,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "VICHADA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }}
+   ],
+   "2014-2": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": 6,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 12
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": 3,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": 7,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": 4,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": 17,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 20
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": 8,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": 6,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": 6,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": 1,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": 2,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": 3,
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }}
+   ],
+   "2015-1": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 9,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 16,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 20,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 94,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 114,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 11,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 79,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 13,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 3,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 53,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 38,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 1,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": 49,
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 13,
+         "UNIVERSITARIO": ""
+      }}
+   ],
+   "2015-2": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 34
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }}
+   ],
+   "2016-1": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 30
+      }},      {
+         "name": "ARAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 7
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 10,
+         "UNIVERSITARIO": 48
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 12,
+         "UNIVERSITARIO": 74
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 32
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 41
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 22
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 9
+      }},      {
+         "name": "CHOCO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 8
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 53
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 92
+      }},      {
+         "name": "GUAVIARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "META",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 12
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 19
+      }},      {
+         "name": "PUTUMAYO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 6,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 11,
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 22
+      }},      {
+         "name": "SAN ANDRES",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 38
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 14
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 12
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 30
+      }},      {
+         "name": "VICHADA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }}
+   ],
+   "2016-2": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": 65
+      }},      {
+         "name": "ARAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 9
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 13,
+         "UNIVERSITARIO": 54
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 17
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 150
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 56
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 10,
+         "UNIVERSITARIO": 33
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 31
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "CHOCO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 66
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 65
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 228
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "META",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 11
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 30
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 72
+      }},      {
+         "name": "PUTUMAYO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 8
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 11,
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": 147
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 12,
+         "UNIVERSITARIO": 189
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 25
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 10
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 25,
+         "UNIVERSITARIO": 104
+      }},      {
+         "name": "VAUPES",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "VICHADA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }}
+   ],
+   "2017-1": [
+      {
+         "name": "ANTIOQUIA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 3,
+         "TECNOLOGIA": 25,
+         "UNIVERSITARIO": 29
+      }},      {
+         "name": "ARAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 4,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "ATLANTICO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 20
+      }},      {
+         "name": "BOLIVAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 6,
+         "TECNOLOGIA": 14,
+         "UNIVERSITARIO": 8
+      }},      {
+         "name": "BOYACA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 2,
+         "UNIVERSITARIO": 22
+      }},      {
+         "name": "CALDAS",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 13,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CAQUETA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "CASANARE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 5,
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 19
+      }},      {
+         "name": "CESAR",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "CHOCO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 2
+      }},      {
+         "name": "CORDOBA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 26
+      }},      {
+         "name": "CUNDINAMARCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 9,
+         "TECNOLOGIA": 16,
+         "UNIVERSITARIO": 53
+      }},      {
+         "name": "DISTRITO CAPITAL",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 14,
+         "TECNOLOGIA": 29,
+         "UNIVERSITARIO": 184
+      }},      {
+         "name": "HUILA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 3,
+         "UNIVERSITARIO": 8
+      }},      {
+         "name": "LA GUAJIRA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "MAGDALENA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": 3
+      }},      {
+         "name": "META",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "NARIÑO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 14
+      }},      {
+         "name": "NORTE DE SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 5
+      }},      {
+         "name": "PUTUMAYO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 1,
+         "UNIVERSITARIO": ""
+      }},      {
+         "name": "QUINDIO",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "RISARALDA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": 17,
+         "UNIVERSITARIO": 1
+      }},      {
+         "name": "SANTANDER",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": 6,
+         "UNIVERSITARIO": 22
+      }},      {
+         "name": "SUCRE",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 2,
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 6
+      }},      {
+         "name": "TOLIMA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 7,
+         "UNIVERSITARIO": 4
+      }},      {
+         "name": "VALLE DEL CAUCA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": 1,
+         "TECNOLOGIA": 10,
+         "UNIVERSITARIO": 44
+      }},      {
+         "name": "VICHADA",
+         "values": {	"MAESTRIA": "",
+         "TECNICO LABORAL": "",
+         "TECNICO PROFESIONAL": "",
+         "TECNOLOGIA": "",
+         "UNIVERSITARIO": 1
+      }}
+   ]
+}
