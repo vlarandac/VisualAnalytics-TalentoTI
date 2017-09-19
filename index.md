@@ -13,7 +13,9 @@ Los interesados en estudiar carreras en los niveles técnico profesional, tecnol
 
 Las inscripciones se realizan a través del sitio web [ICETEX](http://www.icetex.gov.co)
 
-# [Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
+# descripción de los datos 
+
+## [Convenios Talento TI 2012 2016](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Beneficiarios-de-los-Convenios-Talento-TI-2012-201/y77w-v3k8)
 
 ## Beneficiarios de los Convenios Talento TI 2012 - 2016
 Ciencia, Tecnología e Innovación
@@ -41,4 +43,18 @@ Columnas
 25
 
 # [BENEFICIARIOS](https://vlarandac.github.io/VisualAnalytics-TalentoTI/beneficiarios_def.html)
+
+Lo que se esperaba conseguir con la visualización: 
+
+Resumir la distribución de beneficiarios del programa Talentos TI por departamento y programa en cada una de las convocatorias.
+
+Hipotesis: los beneficiarios por departamentos eligen programas de los mismos niveles en las distintas convocatorias. 
+
+## Insights
+
+Por medio de la visualización elegida podemos  determinar que en sus inicios el programa Convenio Talentos TI impulsó a los estudiantes a que se vincularan en programas tecnológicos en su gran mayoría, y en menor proporción programas Universitarios, teniendo la mayor acogida en los departamentos de la zona cafetera en el año 2012 y 2013 primera convocatoria.  Para los años siguientes se vio un incremento y una nivelación hacia los programas de nivel Técnico Laboral y Técnico profesional  y una mayor participación de departamentos de otras zonas del país, con una participación bastante alta en el departamento Nariño para el 2013 y 2014 primera convocatoria.  En la segunda convocatoria del 2014 se ve la inclusión de programas de nivel Maestría y alguna presencia de programas Universitarios.
+ 
+Hacia el año 2015 se puede ver una cobertura muy baja en la asignación de beneficios para todos los niveles, y para los últimos dos años en 2016 y 2017 el mayor incentivo ha sido brindado a estudiantes de carreras universitarias sobre cualquiera de los otros niveles. 
+ 
+Teniendo en cuenta la naturaleza del programa, que está enfocado a carreras del área de TI podemos ver que las tendencias aumentaron cuando se incluyeron programas de fortalecimiento de la industria TI en el país, los departamentos que mayor beneficio han obtenido de las distintas convocatorias son en los que se encuentran las grandes ciudades como el Distrito Capital, y el Valle del Cauca, seguido por ciudades intermedias pero con desarrollo constante tales como las de la zona cafetera, los Santanderes, Boyacá y Nariño.  De igual manera se puede ver la poca participación del beneficio en estudiantes residentes en la zona costera y en las zonas de los llanos orientales y región pacífica, lo cual podría verse reflejado en el desarrollo más lento en cuanto a tecnología y a oferta de programas de este tipo en esas zonas del país. 
 
