@@ -22,6 +22,7 @@ En el siguiente emlace se encuentra la visualización desarrollada para estos da
 
 ## BENEFICIARIOS
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
