@@ -51,7 +51,7 @@ function createChart (svg, data) {
 
   var yAxis = g.append('g')
       .attr('class', 'axis')
-      .attr('transform', 'translate(' + (margin.right+margin.left) + ',0)')
+      .attr('transform', 'translate(' + (margin.right+margin.left) + ',-10)')
       .call(d3.axisLeft(y0))
       //.attr("transform", "rotate(90)")
 
