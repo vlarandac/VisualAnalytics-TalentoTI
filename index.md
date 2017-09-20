@@ -20,7 +20,82 @@ Se actualiza mensualmente y la información que se encuentra allí contenida hac
 
 En el siguiente emlace se encuentra la visualización desarrollada para estos datos. 
 
-# [BENEFICIARIOS](https://vlarandac.github.io/VisualAnalytics-TalentoTI/beneficiarios_def.html)
+## BENEFICIARIOS
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Beneficiarios Talento TI</title>
+    <style>
+        body {
+          font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+        }
+        label {
+          margin-right: 1rem;
+        }
+        fieldset {
+          border: none;
+        }
+        legend {
+          font-weight: bold;
+        }
+        div.tooltip {
+          position: absolute;
+          text-align: center;
+          width: 100px;
+          height: 13px;
+          padding: 1px;
+          font: 11px sans-serif;
+          background: lightgray;
+          border: 0px;
+          border-radius: 4px;
+          pointer-events: none;
+        } 
+        .axis text {
+          font: 10px sans-serif;
+        }
+      
+        .legend text {
+          font: 10px sans-serif;
+        }
+      
+        .axis line,
+        .axis path {
+          fill: none;
+          stroke: #000;
+          shape-rendering: crispEdges;
+        }
+      
+        .path-line {
+          fill: none;
+          stroke: yellow;
+          stroke-width: 1.5px;
+        }
+      
+        svg {
+          background: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <h1>BENEFICIARIOS TALENTOS TI - 2012-2017</h1>
+<img src="./talentoti.jpg" border="0" width="10" height="10">
+
+    <svg width="960" height="500"/>
+
+    <div class="controls"></div>
+
+<script src="//d3js.org/d3.v4.min.js"></script>
+<script src="//cdn.jsdelivr.net/lodash/4.17.4/lodash.min.js" charset="utf-8"></script>
+<script src="script-compiled-4.js"></script>
+<script>
+    // change frame height
+    d3.select(self.frameElement).style('height', '660px');
+</script>
+
+</body>
+</html>
 
 ## Lo que se espera conseguir con la visualización:
 
