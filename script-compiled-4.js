@@ -57,6 +57,8 @@ function createChart (svg, data) {
 
   var xAxis = g.append('g')
       .attr('class', 'axis')
+      .attr('transform', 'translate(0,' + height + ')')
+      .call(d3.axisBottom(x))
 
   xAxis
     .append('text')
@@ -77,7 +79,7 @@ function createChart (svg, data) {
 
   legend.append('text')
   .text('Nivel del programa')
-  .attr('x', width + 50)
+  .attr('x', width - 19)
   .style('font-weight', 'bold')
   .attr('dy', -10)
   .attr('dx', 20)
@@ -86,16 +88,16 @@ function createChart (svg, data) {
     .selectAll('g')
     .data(valueKeys)
     .enter().append('g')
-      .attr('transform', function (d, i) { return 'translate(0,' + i * 20 + ')' })
+      .attr('transform', function (d, i) { return 'translate(50,' + i * 20 + ')' })
 
   legendEnter.append('rect')
-      .attr('x', width + 50)
+      .attr('x', width -19)
       .attr('width', 19)
       .attr('height', 19)
       .attr('fill', z)
 
   legendEnter.append('text')
-      .attr('x', width + 40)
+      .attr('x', width -24)
       .attr('y', 9.5)
       .attr('dy', '0.32em')
       .text(function (d) { return d; })
@@ -112,6 +114,8 @@ function createChart (svg, data) {
       //find max value of a section
       var maxValue = d3.max(data.map(function (d) { return Object.values(d.values); }).reduce(function (a, b) { return a.concat(b); }, []))
       x.domain([0,maxValue]).nice()
+     // x.domain([maxValue,0]).nice()
+
 
       xAxis.transition()
       .call(d3.axisBottom(x))
@@ -147,7 +151,7 @@ function createChart (svg, data) {
       .transition()
       .attr('height', y1.bandwidth())
       .attr('y', function (d) { return y1(d.key) })
-      //.attr('x', function (d) { return x(d.value); })
+      .attr('x', function (d) { return x(d.value); })
       .attr('x', (margin.right+margin.left) )
       .attr('width', function (d) { return width - (x(d.value)+margin.right); })
     }
