@@ -22,7 +22,6 @@ En el siguiente emlace se encuentra la visualización desarrollada para estos da
 
 ## BENEFICIARIOS
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -80,7 +79,7 @@ En el siguiente emlace se encuentra la visualización desarrollada para estos da
 </head>
 <body>
     <h1>BENEFICIARIOS TALENTOS TI - 2012-2017</h1>
-<img src="./talentoti.jpg" border="0" width="10" height="10">
+<img src="./talentoti.jpg" border="0" width="80" height="80">
 
     <svg width="960" height="500"/>
 
