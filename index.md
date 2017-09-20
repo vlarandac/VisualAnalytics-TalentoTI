@@ -20,8 +20,6 @@ Se actualiza mensualmente y la información que se encuentra allí contenida hac
 
 En el siguiente emlace se encuentra la visualización desarrollada para estos datos. 
 
-## BENEFICIARIOS
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
